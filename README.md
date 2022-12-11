@@ -1,4 +1,4 @@
-# making-repoaitory
+# making repository
 For new comers
 
 step 1: After successfully setting up GitHub account login to your account. You will see the screen as below.
